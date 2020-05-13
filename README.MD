@@ -12,5 +12,5 @@ Please add your info to the bottom of the table in an empty row markdown format.
 | Shivam Sharma| Full Stack Javascrpit Developer| India |React,ReactNative,Node,Git,Javascript | Remote Friendly |shvmsrma@gmail.com  |
 |  Shohel Rana    |  Frontend Developer   |  Bangladesh  | React,Angular,MongoDb,NodeJs,C#,AI |  Relocate  | iamshohelrana@gmail.com |
 | Afraz Momin   | Full Stack Javascript Developer | India  | Javascript, React, Node   | Remote friendly    | afraz.momin@gmail.com  |
-| Andrew Ross | Full-Stack Developer | Chicago, IL | JavaScript, TypeScript, React, Redux, Node, Auth0, Docker, GraphQL, Apollo | Remote or onsite, willing to relocate | :heavy_check_mark: | andrew.simpson.ross@gmail.com <br> [Portfolio] https://react-portfolio-asross.herokuapp.com/ <br> [LinkedIn] https://www.linkedin.com/in/asross/ | 
+| Andrew Ross | Full-Stack Developer | Chicago, IL | JavaScript, TypeScript, React, Redux, Node, Auth0, Docker, GraphQL, Apollo | Remote or onsite | andrew.simpson.ross@gmail.com | <br> [Portfolio] https://react-portfolio-asross.herokuapp.com/ <br> [LinkedIn] https://www.linkedin.com/in/asross/ | 
 |         |         |             |           |           |            |
